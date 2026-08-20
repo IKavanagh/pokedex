@@ -1,0 +1,6 @@
+{
+    "$schema": "https://unpkg.com/knip@6/schema.json",
+    "next": {
+        "entry": ["src/app/**/{page,layout,loading,error,not-found,route}.{js,jsx,ts,tsx}"]
+    }
+}
